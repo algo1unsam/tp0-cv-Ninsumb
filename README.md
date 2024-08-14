@@ -2,7 +2,7 @@
 
 #APLICACION PARA TRABAJO
 
-![IMG1](C:\Users\PC-Home\Desktop\tp0 algo1\img1)
+![IMG1](C:\Users\PC-Home\Desktop\tp0 algo1\img1.jpg)
 
 
 
