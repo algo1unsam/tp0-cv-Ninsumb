@@ -1,8 +1,8 @@
 # TP0-CV
 
-###APLICACION PARA TRABAJO
+#APLICACION PARA TRABAJO
 
-![IMG1](\Users\PC-Home\Desktop\tp0\algo1imagen.png)
+![IMG1](C:\Users\PC-Home\Desktop\tp0 algo1\img1)
 
 
 
@@ -12,7 +12,7 @@ Y bueno, quiero un **trabajo** con un *sueldo* que me de los recursos para hacer
 
 **Este es un pésimo cv** 
 
-###SECCIÓN JUEGOS, lo que interesa
+##SECCIÓN JUEGOS, lo que interesa
 
 + **Dark Souls I**: El infaltable de la lista. Es un consenso re popular, pero Dark Souls (y sus continuaciones) cumplen con todo lo que un videojuego debería cumplir. Especialmente le tengo mucho cariño por el momento en que apareció la obra en mi vida. La mejor entrega en mi opinión es la primera, por ser la que mejor plasma en gameplay la sensación de estar perdido ante un mundo inmenso y desconocido. Incita a explorar, lo que es buenísimo porque tiene una excelente ambientación que en muchas ocasiones parece mágica, y más realzada por los gráficos de ese entonces (si les gusta la del primero en especial hay un juego indie gratuito, 0_abyssalSomewhere, que logra algo muy parecido). Con paciencia, cualquiera puede jugarlo, ya que cuando no podés ganar ciertas peleas, el juego mismo te anima a buscar otro camino o estrategia. Y para los gordos lore... que decir, Dark Souls tiene una historia muy viva e interesante, yo diría hasta bella. Finalmente, DS1 > DS2 > DS3. 
 + **Nier: Automata**: El elenco de Nier: Replicant caló más hondo en mi corazón, pero Automata logra con su jugabilidad una narrativa que deja hasta al más indiferente soltando lágrimas. La historia de la saga Nier es hermosa, y vale mucho la pena analizarla desde múltiples aspectos. Trata temas como la existencia, el amor y la fragilidad de los seres humanos. Una obra verdaderamente empática y sensible. Se la recomiendo a todo el mundo. 
